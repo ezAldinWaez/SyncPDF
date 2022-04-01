@@ -1,1 +1,2 @@
-this is a test file to try SynsPDF. 
+this is a test file to try SynsPDF.
+...
